@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
         <groupId>org.epam.utils</groupId>
-        <artifactId>StringUtils</artifactId>
+        <artifactId>Util</artifactId>
         <version>1.0</version>
         </dependency>
         <dependency>
